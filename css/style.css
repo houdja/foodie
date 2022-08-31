@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --orange :orange; 
+    --black :#333;
+    --font : 'Source sans pro', 'overpass', sans-serif;
+    --margin__bottom : 100px;
+    --shadow : 0 0 10px rgba(0,0,0,0.1); 
+}
+
+body{
+    color: var(--black);
+}
