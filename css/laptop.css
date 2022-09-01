@@ -1,0 +1,17 @@
+@media only screen and (min-width : 1224px) {
+    /* Styles */
+    .navbar__links{
+        position: unset;
+        width: 50%;
+        background-color: #fff;
+        height: auto;
+        display: flex;
+        flex-direction: unset;
+        justify-content: space-between;
+        align-items: center;
+        transform: translateX(0%);
+    }
+    .hamburger{
+        display: none;
+    }
+}
